@@ -1,3 +1,6 @@
+# Video Link:
+Link: https://www.loom.com/share/78ba461cf3c745159ae1b69c97d226e9
+
 # KaziHunt — Smart Job Search Tool
 
 KaziHunt helps you find jobs in one place. Search local jobs by country and city, or browse remote jobs worldwide — all from a single clean interface.
